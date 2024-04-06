@@ -1,3 +1,3 @@
-# softenix-internship
+# softnetix-internship
 #java domain internship
 #given projEcts to enhance the skills.
